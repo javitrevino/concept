@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "031073e0-d1e4-11ea-8223-034c306198f0",
+  "do_objectID": "94CA6FCE-C0E1-4189-8257-938029F372EB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
   },
@@ -27,7 +27,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": -245,
     "guides": [
     ]
   },
@@ -41,11 +41,11 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "BFED2254-F7D7-4844-8323-65CA4FE27D87"
+      "id": "C2214E4F-5630-4DC6-B3DB-5F5340F133CF"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "MyMinistry",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -84,7 +84,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DE69F70E-4EC1-441B-923C-2F3CF715777E",
+    "do_objectID": "866FBE51-173C-48D5-9C0D-722CE5ED0231",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,7 +98,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": -426,
     "guides": [
     ]
   }

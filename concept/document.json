@@ -26,6 +26,126 @@
   "colorSpace": 0,
   "do_objectID": "0310e910-d1e4-11ea-8223-034c306198f0",
   "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "14C2B611-8D0D-476D-B118-0E97F898A51E",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1AFC10D7-44D1-4C87-8EE6-534337B68945",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "SourceSansPro-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "39809031-4DA2-4A18-8DA7-3CA0B9041006",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "42DBD0C5-95E7-40A4-91FC-313E08DA3325",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8135A682-3A2C-4219-8EAC-E7E23E66492B",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-SemiBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "818956B9-0CEB-417E-8C94-2621B7591458",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9BB599B1-CE37-442D-9866-717F6D4C7BE5",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9DE3A16D-EF4E-4123-9711-B45C24978EBC",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B4D96239-B823-4A05-957E-B617AF8383BC",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-SemiBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CB8F8740-9843-4E1F-BFAC-B58A1E2863C2",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-ExtraLightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D3E4CC1F-AAA9-41FA-A15C-03412BA5AED6",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DDB61B3A-8FF5-45EC-AA7B-CD1230993B8A",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-BlackItalic"
+      ]
+    }
   ],
   "foreignLayerStyles": [
   ],
@@ -46,7 +166,8 @@
     "version": 130
   },
   "pages": [
-    "Page 1"
+    "myChurch",
+    "MyMinistry"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",

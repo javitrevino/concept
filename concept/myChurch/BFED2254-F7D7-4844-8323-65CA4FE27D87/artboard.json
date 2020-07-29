@@ -52,6 +52,10 @@
     {
       "class": "rectangle",
       "id": "2B158DC1-CA0E-4DEF-97E0-6F5B8B7A2B4F"
+    },
+    {
+      "class": "text",
+      "id": "25CF4DAD-B67B-4299-BC96-6B779C4680DA"
     }
   ],
   "name": "Tablet",
