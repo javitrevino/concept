@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B96B09D3-BDA0-482C-B39A-AEA9FE6FAD06",
+  "do_objectID": "62B095B4-6D67-41FD-9BAF-CAB1438A404E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,48 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 32,
+    "width": 32,
+    "x": -57,
+    "y": -102
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -245,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "907F0DFF-9D3A-43CA-B736-755251D7B0A3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A6B44259-0577-4309-989F-12DDE0A7FAD2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "62B095B4-6D67-41FD-9BAF-CAB1438A404E"
-    }
+  "name": "Cursors / Beachball",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "testPage",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B12B3814-62B9-4FB6-BA07-6670F04728DF",
+    "do_objectID": "B6C63EBE-9D0A-4B7C-AF5E-473711962CF4",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -426,
-    "guides": [
-    ]
-  }
+  "symbolID": "63BE9CE6-0445-4395-BEB5-E0683DDBEFDD",
+  "verticalSpacing": 0
 }
